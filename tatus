@@ -1,0 +1,65 @@
+[33mcommit af70f3bb7b34af9c3fa712a6d126f9a05aa08128[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <647462662@qq.com>
+Date:   Mon Jan 5 21:48:40 2026 +0800
+
+    更新仓库状态
+
+[33mcommit 3f26984bc249508f2ebacea1c2d4cf3b2e177dad[m
+Author: unknown <647462662@qq.com>
+Date:   Mon Jan 5 21:21:37 2026 +0800
+
+    更新Phase1：Java基础学习内容
+
+[33mcommit 46e24fde50294e68ba9467bcb788dcbc11d859c2[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: unknown <647462662@qq.com>
+Date:   Mon Jan 5 21:07:14 2026 +0800
+
+    添加Phase2阶段的学习内容
+
+[33mcommit 4a2840baace4489c01c85b6e17cb802e24731ea2[m
+Author: unknown <647462662@qq.com>
+Date:   Tue Dec 23 16:22:07 2025 +0800
+
+    day8
+
+[33mcommit e0e3981648993ce5b0ab3b8dfec2d98640db7e31[m
+Author: unknown <647462662@qq.com>
+Date:   Tue Dec 23 15:39:51 2025 +0800
+
+    day7
+
+[33mcommit 6ab3ba75d781ca74e0677e0f6a9eb2aece3c4f2d[m
+Author: unknown <647462662@qq.com>
+Date:   Tue Dec 23 15:18:15 2025 +0800
+
+    feat: 新增JDBC数据库操作示例程序 - 包含数据库连接、查询、插入及安全查询功能
+
+[33mcommit 7ff9aef9fb5bbc6e341381f6b7a17cbe3dc21183[m
+Author: unknown <647462662@qq.com>
+Date:   Mon Dec 22 18:13:27 2025 +0800
+
+    Day6
+
+[33mcommit 533551e0843f52043829418f9e2c1cff768e5b4d[m
+Author: unknown <647462662@qq.com>
+Date:   Mon Dec 22 17:27:17 2025 +0800
+
+    Day6
+
+[33mcommit 0487483f08779a4b146b2d9ff85db44b3f681c5d[m
+Author: unknown <647462662@qq.com>
+Date:   Mon Dec 22 16:45:38 2025 +0800
+
+    Day5
+
+[33mcommit 4a104714d907ab607b931d820e69af2f8e9b6a42[m
+Author: unknown <647462662@qq.com>
+Date:   Sun Dec 21 23:19:59 2025 +0800
+
+    添加Java学习项目：day1-day4
+
+[33mcommit 3876981d334530c4473046832fcd97d6b96d3311[m
+Author: dingchunru <647462662@qq.com>
+Date:   Sun Dec 21 23:02:31 2025 +0800
+
+    first commit
